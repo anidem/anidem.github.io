@@ -4,4 +4,30 @@ title: Research
 permalink: /research/
 ---
 
-research topics here...
+Oranges
+---
+
+----
+
+- a
+- b
+- c
+
+Ripe
+===
+
+Unripe
+===
+
+Seeds
+===
+
+Apples
+---
+
+----
+
+Pears
+---
+
+----
