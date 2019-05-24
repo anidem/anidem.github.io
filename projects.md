@@ -35,10 +35,10 @@ A Django-based learning management system designed to allow users access to onli
 **Key features:** bilingual content and user interface (span/eng), instructor management system, chat interface for online tutors, pretest/posttest scoring and recommendation system, mobile compatible, student progress tracker
 
 
-![image-title-here]({{ site.url }}/assets/ggv-span-sample.png){:class="img-responsive"}
+![image-title-here](/assets/ggv-span-sample.png){:class="img-responsive"}
 *Figure 1. GGV Interactive Module Page (Spanish)*
 
-![image-title-here]({{ site.url }}/assets/ggv-ws-sample.png){:class="img-responsive"}
+![image-title-here](/assets/ggv-ws-sample.png){:class="img-responsive"}
 *Figure 2. GGV Interactive Worksheet Question (Spanish)*
 
 
@@ -64,7 +64,7 @@ A Django-based web application designed to support the NFLRC’s Fundamentals of
 **Key features:** Discussion threads, rich-content editing
 
 
-![image-title-here]({{ site.url }}/assets/pbll-lesson-sample.png){:class="img-responsive"}
+![image-title-here](/assets/pbll-lesson-sample.png){:class="img-responsive"}
 *Figure 3. A Lesson in the Online Institute system.*
 
 #### Language, Learning & Technology Journal Website
